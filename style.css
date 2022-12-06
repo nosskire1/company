@@ -16,6 +16,7 @@ body {
     margin: 0px;
     padding: 0px;
     list-style-type: none;
+    font-size: 0px;
 
 }
 
@@ -24,7 +25,7 @@ body {
     text-align: center;
     font-size: 1.2rem;
     border-bottom: 2px solid black;
-    transition: background-color 4.20s;
+    transition: background-color 1s;
 }
 
 .nav ul li:hover {
@@ -44,6 +45,8 @@ body {
     margin: 0px auto;
     padding: 16px 0px;
 }
+
+
 
 .image-text {
     text-align: center;
@@ -69,3 +72,23 @@ body {
 .single-service p {
     padding: 0px 16px;
 }
+
+@media screen and (min-width: 700px) {
+    .nav ul {
+        text-align: right;
+    }
+
+.nav ul li {
+    display: inline-block;
+    border-bottom: 0px;
+    border-left: 2px solid black;
+    text-align: left;
+}
+
+.single-service {
+    max-width: 1020px;
+    width: 50%;
+    float: left;
+    
+}
+
