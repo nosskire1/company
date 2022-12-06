@@ -85,10 +85,13 @@ body {
     text-align: left;
 }
 
+.centered-container {
+    display: flex;
+}
+
 .single-service {
-    max-width: 1020px;
-    width: 50%;
-    float: left;
+    padding-left: 20px;
+}
     
 }
 
