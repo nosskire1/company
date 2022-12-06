@@ -1,0 +1,71 @@
+body {
+    background-color: bisque;
+    color: black;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.nav {
+    background-color: rgb(151, 101, 0);
+    color: rgb(224, 255, 175);
+}
+
+.nav ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+
+}
+
+.nav ul li {
+    padding: 16px;
+    text-align: center;
+    font-size: 1.2rem;
+    border-bottom: 2px solid black;
+    transition: background-color 4.20s;
+}
+
+.nav ul li:hover {
+    background-color: rgb(58, 39, 0);
+}
+
+.image-area {
+    background-image: url("images//Cats_Snout_Kittens_Glance_568111_1280x853.jpg");
+    background-position: center center;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.centered-container {
+    max-width: 1020px;
+    margin: 0px auto;
+    padding: 16px 0px;
+}
+
+.image-text {
+    text-align: center;
+    background-color: rgb(43, 40, 36);
+    color: blanchedalmond;
+    font-size: 2.5rem;
+}
+
+.intro-text {
+    color: rgb(80, 80, 74);
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.single-service {
+    text-align: center;
+    margin-bottom: 32px;
+
+}
+
+.single-service p {
+    padding: 0px 16px;
+}
