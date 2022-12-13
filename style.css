@@ -85,14 +85,22 @@ body {
     text-align: left;
 }
 
-.single-service {
-    max-width: 1020px;
-    display: flex;
-    grid-template-rows: auto;
+.centered-container {
     display: grid;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 50% 50%;
+    grid-template-columns: auto auto;
+
 }
+
+.single-service {
+    padding-left: 16px;
+
+}
+
+.single-service img {
+    max-width: 510px;
+}
+
+
 
     
 }
