@@ -1,4 +1,4 @@
-let gamerstatus = prompt("gamer?");
+let gamerstatus = prompt("gamer? (yes/no)");
 
 if (gamerstatus == "yes"){
     alert("nörd");

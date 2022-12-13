@@ -23,3 +23,6 @@ https://app1.zenva.com/course/create-your-first-responsive-website/
 väldigt tydligt och lätt att följa. 
 
 lite gammaldags nästan.
+
+
+nytt problem. "Hallo" är inte centrerat.
