@@ -24,5 +24,15 @@ väldigt tydligt och lätt att följa.
 
 lite gammaldags nästan.
 
+nämnde inte display flex 0/10
+
+javatutorialen
+https://app1.zenva.com/course/javascript-programming-for-beginners/
+
+hann inte göra så mycket av java tutorialen som jag ville men den var tydlig och relativt lätt att följa.
+
+
 
 nytt problem. "Hallo" är inte centrerat.
+
+fixade problemet. hallo var i ett grid av misstag.
